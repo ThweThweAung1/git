@@ -1,0 +1,10 @@
+git coommand
+1 txt file's path copy to cmd
+2 write git init
+3write git status
+ 4 write git config --global user.email "thwethweanung@gmail.com"
+5 write git config --global user.name "thwe thwe aung"
+6 git add .
+  write git commit -m( "test")write anything
+6  writegit remote add origin/copy fromgithub( https://github.com/ThweThweAung1/git.git)
+7 git push -u origin master
